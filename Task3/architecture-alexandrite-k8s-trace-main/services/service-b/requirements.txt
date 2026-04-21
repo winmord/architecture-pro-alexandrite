@@ -1,0 +1,5 @@
+flask
+random2
+opentelemetry-sdk
+opentelemetry-exporter-otlp
+opentelemetry-instrumentation-flask
